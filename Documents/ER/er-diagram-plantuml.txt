@@ -1,0 +1,114 @@
+@startuml
+entity "Lecturer" {
+    *id : int <<PK>>
+    --
+    name : varchar
+    department_id : int <<FK>>
+    total_hours : int
+    hours_teaching : int
+    hours_research : int
+    hours_others : int
+    rank : varchar
+}
+
+entity "Department" {
+    *id : int <<PK>>
+    --
+    name : varchar
+}
+
+entity "Specialization" {
+    *id : int <<PK>>
+    --
+    name : varchar
+}
+
+entity "Subject" {
+    *id : int <<PK>>
+    --
+    name : varchar
+    specialization_id : int <<FK>>
+    credits : int
+    is_mandatory : boolean
+}
+
+entity "LecturerSubject" {
+    *lecturer_id : int <<PK, FK>>
+    *subject_id : int <<PK, FK>>
+    --
+    hours_per_subject : int
+    term_id : int <<FK>>
+}
+
+entity "StudentGroup" {
+    *id : int <<PK>>
+    --
+    name : varchar
+    student_count : int
+    specialization_id : int <<FK>>
+    term_start : date
+    term_end : date
+}
+
+entity "Classroom" {
+    *id : int <<PK>>
+    --
+    building_address : varchar
+    room_number : varchar
+    seating_capacity : int
+    availability : varchar
+    department_id : int <<FK>>
+}
+
+entity "Equipment" {
+    *id : int <<PK>>
+    --
+    name : varchar
+    classroom_id : int <<FK>>
+    condition : varchar
+}
+
+entity "Schedule" {
+    *id : int <<PK>>
+    --
+    student_group_id : int <<FK>>
+    lesson_number : int
+    lesson_time_start : time
+    lesson_time_end : time
+    week_pattern : varchar
+    lecturer_id : int <<FK>>
+    classroom_id : int <<FK>>
+    class_type_id : int <<FK>>
+    subject_id : int <<FK>>
+}
+
+entity "ClassType" {
+    *id : int <<PK>>
+    --
+    type_name : varchar
+    description : varchar
+}
+
+entity "Term" {
+    *id : int <<PK>>
+    --
+    name : varchar
+    start_date : date
+    end_date : date
+}
+
+' Relationships
+Lecturer }-- Department : "department_id"
+LecturerSubject }-- Lecturer : "lecturer_id"
+LecturerSubject }-- Subject : "subject_id"
+LecturerSubject }-- Term : "term_id"
+Subject }-- Specialization : "specialization_id"
+StudentGroup }-- Specialization : "specialization_id"
+Schedule }-- StudentGroup : "student_group_id"
+Schedule }-- Lecturer : "lecturer_id"
+Schedule }-- Classroom : "classroom_id"
+Schedule }-- ClassType : "class_type_id"
+Schedule }-- Subject : "subject_id"
+Equipment }-- Classroom : "classroom_id"
+Classroom }-- Department : "department_id"
+@enduml
