@@ -1,0 +1,76 @@
+﻿<Page x:Class="WpfApp1.Views.SchedulePage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+
+      Title="Schedule Page">
+    <ScrollViewer VerticalScrollBarVisibility="Auto" HorizontalScrollBarVisibility="Auto">
+
+        <StackPanel Margin="10">
+            <TextBlock Text="Редактор розкладу" FontSize="20" FontWeight="Bold" Margin="0,0,0,10"/>
+
+            <!-- Вибір факультету -->
+            <TextBlock Text="Факультет:"/>
+            <ComboBox Name="FacultyComboBox" DisplayMemberPath="FacultyName" Width="200" Margin="0,2,0,2" SelectionChanged="OnFacultySelectionChanged"/>
+
+            <!--Vubir dnya-->
+            <TextBlock Text="День:"/>
+            <ComboBox x:Name="DayComboBox" Margin="0,2,0,2" Width="200">
+                <ComboBox.ItemsSource>
+                    <x:Array Type="{x:Type sys:String}" xmlns:sys="clr-namespace:System;assembly=mscorlib">
+                        <sys:String>Понеділок</sys:String>
+                        <sys:String>Вівторок</sys:String>
+                        <sys:String>Середа</sys:String>
+                        <sys:String>Четвер</sys:String>
+                        <sys:String>П'ятниця</sys:String>
+                        <sys:String>Субота</sys:String>
+                    </x:Array>
+                </ComboBox.ItemsSource>
+            </ComboBox>
+            <!-- Вибір курсу -->
+            <TextBlock Text="Курс:"/>
+            <ComboBox Name="CourseComboBox" DisplayMemberPath="CourseName" Width="200" Margin="0,2,0,2" SelectionChanged="OnCourseSelectionChanged"/>
+
+            <!-- Вибір предмету -->
+            <TextBlock Text="Предмет:"/>
+            <ComboBox Name="SubjectComboBox" DisplayMemberPath="SubjectName" Width="200" Margin="0,2,0,2"/>
+
+            <!-- Вибір типу заняття -->
+            <TextBlock Text="Тип заняття:"/>
+            <ComboBox Name="LessonTypeComboBox" DisplayMemberPath="Name" Width="200" Margin="0,2,0,2" SelectionChanged="OnLessonTypeSelectionChanged"/>
+
+            <!-- Вибір групи -->
+            <TextBlock Text="Група:"/>
+            <ComboBox Name="GroupComboBox" Width="200" Margin="0,2,0,2"/>
+
+            <!-- Вибір викладача -->
+            <TextBlock Text="Викладач:"/>
+            <ComboBox Name="TeacherComboBox" DisplayMemberPath="Name" Width="200" Margin="0,2,0,2"/>
+
+            <!-- Вибір аудиторії -->
+            <TextBlock Text="Аудиторія:"/>
+            <ComboBox Name="RoomComboBox" DisplayMemberPath="RoomNumber" Width="200" Margin="0,2,0,2"/>
+
+            <!-- Вибір пари -->
+            <TextBlock Text="Пара:"/>
+            <ComboBox Name="PairComboBox" Width="200" Margin="0,2,0,2">
+                <ComboBoxItem Content="8:30 - 10:00"/>
+                <ComboBoxItem Content="10:15 - 11:45"/>
+                <ComboBoxItem Content="12:00 - 13:30"/>
+                <ComboBoxItem Content="13:45 - 15:15"/>
+                <ComboBoxItem Content="15:30 - 17:00"/>
+                <ComboBoxItem Content="17:15 - 18:45"/>
+                
+                <!-- Додайте інші пари за необхідністю -->
+            </ComboBox>
+
+            <!-- Кнопки для збереження та видалення -->
+            <StackPanel Orientation="Horizontal">
+                <Button Content="Додати/Оновити запис" Width="150" Margin="5" Click="SaveSchedule_Click"/>
+                <Button Content="Видалити запис" Width="150" Margin="5" Click="DeleteSchedule_Click"/>
+            </StackPanel>
+
+            <!-- Список розкладу -->
+            <ListBox Name="ScheduleListBox" DisplayMemberPath="DisplayText" Height="200" Margin="10,10,10,10"/>
+        </StackPanel>
+    </ScrollViewer>
+</Page>

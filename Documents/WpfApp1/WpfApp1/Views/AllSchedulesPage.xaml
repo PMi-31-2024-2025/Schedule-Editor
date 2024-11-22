@@ -1,0 +1,28 @@
+﻿<Page x:Class="WpfApp1.Views.AllSchedulesPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      mc:Ignorable="d" 
+      Title="Усі розклади">
+    <Grid Margin="10">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+
+        <TextBlock Grid.Row="0" Text="Усі розклади" FontSize="24" FontWeight="Bold" Margin="0 0 0 10" />
+
+        <!-- Таблиця розкладу -->
+        <ScrollViewer Grid.Row="1" VerticalScrollBarVisibility="Auto">
+            <Grid x:Name="ScheduleGrid" ShowGridLines="True">
+                <!-- Динамічне наповнення з коду -->
+            </Grid>
+        </ScrollViewer>
+
+        <!-- Кнопка для перезавантаження -->
+        <Button Grid.Row="2" Content="Перезавантажити" HorizontalAlignment="Right" Padding="10" 
+                Click="ReloadSchedules_Click" />
+    </Grid>
+</Page>
