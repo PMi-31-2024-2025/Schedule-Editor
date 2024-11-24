@@ -191,6 +191,7 @@ namespace WpfApp1.Views
                 var newEntry = new ScheduleEntry
                 {
                     Subject = ((Subject)SubjectComboBox.SelectedItem).SubjectName,
+                    SubjectObject = (Subject)SubjectComboBox.SelectedItem,
                     LessonType = ((LessonType)LessonTypeComboBox.SelectedItem).TypeName,
                     Group = selectedGroup,
                     Teacher = selectedTeacher,
@@ -206,6 +207,7 @@ namespace WpfApp1.Views
 
                 _currentSchedule.Entries.Add(newEntry);
 
+                newEntry.SaveToDatabase();
                 // Логування даних
                 Console.WriteLine("Новий запис додано до розкладу:");
                 Console.WriteLine($"  Предмет: {newEntry.Subject}");
