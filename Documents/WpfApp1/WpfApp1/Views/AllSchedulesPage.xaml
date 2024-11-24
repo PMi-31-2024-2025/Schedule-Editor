@@ -5,7 +5,14 @@
       xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
       mc:Ignorable="d" 
       Title="Усі розклади">
-    <Grid Margin="10">
+    <Page.Resources>
+        
+        <ResourceDictionary Source="pack://application:,,,/WpfApp1;component/Resources/AllSchedules.xaml"/>
+
+    </Page.Resources>
+
+    <Grid Margin="10" Background="{StaticResource BackgroundBrush}">
+        
         <Grid.RowDefinitions>
             <RowDefinition Height="Auto"/>
             <RowDefinition Height="*"/>
@@ -22,7 +29,7 @@
         </ScrollViewer>
 
         <!-- Кнопка для перезавантаження -->
-        <Button Grid.Row="2" Content="Перезавантажити" HorizontalAlignment="Right" Padding="10" 
+        <Button Grid.Row="2" Content="Перезавантажити" HorizontalAlignment="Right" Padding="15" Margin="15" Style="{StaticResource SuccessButton}"
                 Click="ReloadSchedules_Click" />
     </Grid>
 </Page>

@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-C:\Users\Markiyan\source\repos\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\
+C:\Users\snake\OneDrive\Рабочий стол\Team project\Schedule-Editor\Documents\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\
 WpfApp1
 none
 false
 TRACE;DEBUG;NET;NET8_0;NETCOREAPP
-C:\Users\Markiyan\source\repos\WpfApp1\WpfApp1\App.xaml
-3668160033
+C:\Users\snake\OneDrive\Рабочий стол\Team project\Schedule-Editor\Documents\WpfApp1\WpfApp1\App.xaml
+5-1032746558
 
 18572434411
-2381015329761
-MainWindow.xaml;Views\AllSchedulesPage.xaml;Views\SchedulePage.xaml;
+238209310491
+MainWindow.xaml;Resources\AllSchedules.xaml;Resources\Darcula.xaml;Views\AllSchedulesPage.xaml;Views\SchedulePage.xaml;
 
 False
 
