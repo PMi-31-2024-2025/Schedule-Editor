@@ -1,0 +1,221 @@
+C:\Users\Markiyan\source\repos\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\WpfApp1.exe
+C:\Users\Markiyan\source\repos\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\WpfApp1.deps.json
+C:\Users\Markiyan\source\repos\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\WpfApp1.runtimeconfig.json
+C:\Users\Markiyan\source\repos\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\WpfApp1.dll
+C:\Users\Markiyan\source\repos\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\WpfApp1.pdb
+C:\Users\Markiyan\source\repos\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\Markiyan\source\repos\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\Markiyan\source\repos\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Markiyan\source\repos\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Markiyan\source\repos\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\Markiyan\source\repos\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Markiyan\source\repos\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Markiyan\source\repos\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Markiyan\source\repos\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Markiyan\source\repos\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Markiyan\source\repos\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Markiyan\source\repos\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Markiyan\source\repos\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Markiyan\source\repos\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\Markiyan\source\repos\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Markiyan\source\repos\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Markiyan\source\repos\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Markiyan\source\repos\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Markiyan\source\repos\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Markiyan\source\repos\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\Microsoft.Identity.Client.NativeInterop.dll
+C:\Users\Markiyan\source\repos\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Markiyan\source\repos\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Markiyan\source\repos\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Markiyan\source\repos\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Markiyan\source\repos\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Markiyan\source\repos\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Markiyan\source\repos\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\Markiyan\source\repos\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Core.dll
+C:\Users\Markiyan\source\repos\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.WinForms.dll
+C:\Users\Markiyan\source\repos\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Wpf.dll
+C:\Users\Markiyan\source\repos\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Markiyan\source\repos\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\Markiyan\source\repos\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\Users\Markiyan\source\repos\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Markiyan\source\repos\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Markiyan\source\repos\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Markiyan\source\repos\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Markiyan\source\repos\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Markiyan\source\repos\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Markiyan\source\repos\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msalruntime_arm64.dll
+C:\Users\Markiyan\source\repos\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\runtimes\win-x64\native\msalruntime.dll
+C:\Users\Markiyan\source\repos\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\runtimes\win-x86\native\msalruntime_x86.dll
+C:\Users\Markiyan\source\repos\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+C:\Users\Markiyan\source\repos\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+C:\Users\Markiyan\source\repos\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+C:\Users\Markiyan\source\repos\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Markiyan\source\repos\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.csproj.AssemblyReference.cache
+C:\Users\Markiyan\source\repos\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\Markiyan\source\repos\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\Views\SchedulePage.baml
+C:\Users\Markiyan\source\repos\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\Markiyan\source\repos\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\Views\AllSchedulesPage.g.cs
+C:\Users\Markiyan\source\repos\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\Views\SchedulePage.g.cs
+C:\Users\Markiyan\source\repos\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\Markiyan\source\repos\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\WpfApp1_MarkupCompile.cache
+C:\Users\Markiyan\source\repos\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\Views\AllSchedulesPage.baml
+C:\Users\Markiyan\source\repos\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.g.resources
+C:\Users\Markiyan\source\repos\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Markiyan\source\repos\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.AssemblyInfoInputs.cache
+C:\Users\Markiyan\source\repos\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.AssemblyInfo.cs
+C:\Users\Markiyan\source\repos\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\Markiyan\source\repos\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.csproj.Up2Date
+C:\Users\Markiyan\source\repos\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.dll
+C:\Users\Markiyan\source\repos\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\refint\WpfApp1.dll
+C:\Users\Markiyan\source\repos\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.pdb
+C:\Users\Markiyan\source\repos\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.genruntimeconfig.cache
+C:\Users\Markiyan\source\repos\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\ref\WpfApp1.dll
+C:\Users\snake\OneDrive\Рабочий стол\Team project\Schedule-Editor\Documents\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\WpfApp1.exe
+C:\Users\snake\OneDrive\Рабочий стол\Team project\Schedule-Editor\Documents\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\WpfApp1.deps.json
+C:\Users\snake\OneDrive\Рабочий стол\Team project\Schedule-Editor\Documents\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\WpfApp1.runtimeconfig.json
+C:\Users\snake\OneDrive\Рабочий стол\Team project\Schedule-Editor\Documents\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\WpfApp1.dll
+C:\Users\snake\OneDrive\Рабочий стол\Team project\Schedule-Editor\Documents\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\WpfApp1.pdb
+C:\Users\snake\OneDrive\Рабочий стол\Team project\Schedule-Editor\Documents\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\snake\OneDrive\Рабочий стол\Team project\Schedule-Editor\Documents\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\snake\OneDrive\Рабочий стол\Team project\Schedule-Editor\Documents\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\snake\OneDrive\Рабочий стол\Team project\Schedule-Editor\Documents\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\snake\OneDrive\Рабочий стол\Team project\Schedule-Editor\Documents\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\snake\OneDrive\Рабочий стол\Team project\Schedule-Editor\Documents\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\snake\OneDrive\Рабочий стол\Team project\Schedule-Editor\Documents\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\snake\OneDrive\Рабочий стол\Team project\Schedule-Editor\Documents\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\snake\OneDrive\Рабочий стол\Team project\Schedule-Editor\Documents\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\snake\OneDrive\Рабочий стол\Team project\Schedule-Editor\Documents\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\snake\OneDrive\Рабочий стол\Team project\Schedule-Editor\Documents\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\snake\OneDrive\Рабочий стол\Team project\Schedule-Editor\Documents\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\snake\OneDrive\Рабочий стол\Team project\Schedule-Editor\Documents\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\snake\OneDrive\Рабочий стол\Team project\Schedule-Editor\Documents\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\snake\OneDrive\Рабочий стол\Team project\Schedule-Editor\Documents\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\snake\OneDrive\Рабочий стол\Team project\Schedule-Editor\Documents\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\snake\OneDrive\Рабочий стол\Team project\Schedule-Editor\Documents\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\snake\OneDrive\Рабочий стол\Team project\Schedule-Editor\Documents\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\snake\OneDrive\Рабочий стол\Team project\Schedule-Editor\Documents\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\snake\OneDrive\Рабочий стол\Team project\Schedule-Editor\Documents\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\Microsoft.Identity.Client.NativeInterop.dll
+C:\Users\snake\OneDrive\Рабочий стол\Team project\Schedule-Editor\Documents\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\snake\OneDrive\Рабочий стол\Team project\Schedule-Editor\Documents\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\snake\OneDrive\Рабочий стол\Team project\Schedule-Editor\Documents\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\snake\OneDrive\Рабочий стол\Team project\Schedule-Editor\Documents\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\snake\OneDrive\Рабочий стол\Team project\Schedule-Editor\Documents\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\snake\OneDrive\Рабочий стол\Team project\Schedule-Editor\Documents\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\snake\OneDrive\Рабочий стол\Team project\Schedule-Editor\Documents\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\snake\OneDrive\Рабочий стол\Team project\Schedule-Editor\Documents\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Core.dll
+C:\Users\snake\OneDrive\Рабочий стол\Team project\Schedule-Editor\Documents\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.WinForms.dll
+C:\Users\snake\OneDrive\Рабочий стол\Team project\Schedule-Editor\Documents\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Wpf.dll
+C:\Users\snake\OneDrive\Рабочий стол\Team project\Schedule-Editor\Documents\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\snake\OneDrive\Рабочий стол\Team project\Schedule-Editor\Documents\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\snake\OneDrive\Рабочий стол\Team project\Schedule-Editor\Documents\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\Users\snake\OneDrive\Рабочий стол\Team project\Schedule-Editor\Documents\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\snake\OneDrive\Рабочий стол\Team project\Schedule-Editor\Documents\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\snake\OneDrive\Рабочий стол\Team project\Schedule-Editor\Documents\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\snake\OneDrive\Рабочий стол\Team project\Schedule-Editor\Documents\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\snake\OneDrive\Рабочий стол\Team project\Schedule-Editor\Documents\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\snake\OneDrive\Рабочий стол\Team project\Schedule-Editor\Documents\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\snake\OneDrive\Рабочий стол\Team project\Schedule-Editor\Documents\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msalruntime_arm64.dll
+C:\Users\snake\OneDrive\Рабочий стол\Team project\Schedule-Editor\Documents\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\runtimes\win-x64\native\msalruntime.dll
+C:\Users\snake\OneDrive\Рабочий стол\Team project\Schedule-Editor\Documents\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\runtimes\win-x86\native\msalruntime_x86.dll
+C:\Users\snake\OneDrive\Рабочий стол\Team project\Schedule-Editor\Documents\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+C:\Users\snake\OneDrive\Рабочий стол\Team project\Schedule-Editor\Documents\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+C:\Users\snake\OneDrive\Рабочий стол\Team project\Schedule-Editor\Documents\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+C:\Users\snake\OneDrive\Рабочий стол\Team project\Schedule-Editor\Documents\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\snake\OneDrive\Рабочий стол\Team project\Schedule-Editor\Documents\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.csproj.AssemblyReference.cache
+C:\Users\snake\OneDrive\Рабочий стол\Team project\Schedule-Editor\Documents\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\snake\OneDrive\Рабочий стол\Team project\Schedule-Editor\Documents\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\Views\AllSchedulesPage.baml
+C:\Users\snake\OneDrive\Рабочий стол\Team project\Schedule-Editor\Documents\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\Views\SchedulePage.baml
+C:\Users\snake\OneDrive\Рабочий стол\Team project\Schedule-Editor\Documents\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\snake\OneDrive\Рабочий стол\Team project\Schedule-Editor\Documents\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\Views\AllSchedulesPage.g.cs
+C:\Users\snake\OneDrive\Рабочий стол\Team project\Schedule-Editor\Documents\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\Views\SchedulePage.g.cs
+C:\Users\snake\OneDrive\Рабочий стол\Team project\Schedule-Editor\Documents\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\snake\OneDrive\Рабочий стол\Team project\Schedule-Editor\Documents\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\WpfApp1_MarkupCompile.cache
+C:\Users\snake\OneDrive\Рабочий стол\Team project\Schedule-Editor\Documents\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.g.resources
+C:\Users\snake\OneDrive\Рабочий стол\Team project\Schedule-Editor\Documents\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\snake\OneDrive\Рабочий стол\Team project\Schedule-Editor\Documents\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.AssemblyInfoInputs.cache
+C:\Users\snake\OneDrive\Рабочий стол\Team project\Schedule-Editor\Documents\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.AssemblyInfo.cs
+C:\Users\snake\OneDrive\Рабочий стол\Team project\Schedule-Editor\Documents\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\snake\OneDrive\Рабочий стол\Team project\Schedule-Editor\Documents\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.sourcelink.json
+C:\Users\snake\OneDrive\Рабочий стол\Team project\Schedule-Editor\Documents\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.csproj.Up2Date
+C:\Users\snake\OneDrive\Рабочий стол\Team project\Schedule-Editor\Documents\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.dll
+C:\Users\snake\OneDrive\Рабочий стол\Team project\Schedule-Editor\Documents\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\refint\WpfApp1.dll
+C:\Users\snake\OneDrive\Рабочий стол\Team project\Schedule-Editor\Documents\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.pdb
+C:\Users\snake\OneDrive\Рабочий стол\Team project\Schedule-Editor\Documents\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.genruntimeconfig.cache
+C:\Users\snake\OneDrive\Рабочий стол\Team project\Schedule-Editor\Documents\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\ref\WpfApp1.dll
+C:\Users\snake\OneDrive\Рабочий стол\Team project\Schedule-Editor\Documents\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\Resources\Darcula.baml
+C:\Users\snake\OneDrive\Рабочий стол\Team project\Schedule-Editor\Documents\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\Resources\AllSchedules.baml
+D:\Coding\Projects\Schedule-Editor\WpfApp1\bin\Debug\net8.0-windows\WpfApp1.exe
+D:\Coding\Projects\Schedule-Editor\WpfApp1\bin\Debug\net8.0-windows\WpfApp1.deps.json
+D:\Coding\Projects\Schedule-Editor\WpfApp1\bin\Debug\net8.0-windows\WpfApp1.runtimeconfig.json
+D:\Coding\Projects\Schedule-Editor\WpfApp1\bin\Debug\net8.0-windows\WpfApp1.dll
+D:\Coding\Projects\Schedule-Editor\WpfApp1\bin\Debug\net8.0-windows\WpfApp1.pdb
+D:\Coding\Projects\Schedule-Editor\WpfApp1\bin\Debug\net8.0-windows\Azure.Core.dll
+D:\Coding\Projects\Schedule-Editor\WpfApp1\bin\Debug\net8.0-windows\Azure.Identity.dll
+D:\Coding\Projects\Schedule-Editor\WpfApp1\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Coding\Projects\Schedule-Editor\WpfApp1\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+D:\Coding\Projects\Schedule-Editor\WpfApp1\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\Coding\Projects\Schedule-Editor\WpfApp1\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Coding\Projects\Schedule-Editor\WpfApp1\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Coding\Projects\Schedule-Editor\WpfApp1\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Coding\Projects\Schedule-Editor\WpfApp1\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Coding\Projects\Schedule-Editor\WpfApp1\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\Coding\Projects\Schedule-Editor\WpfApp1\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Coding\Projects\Schedule-Editor\WpfApp1\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\Coding\Projects\Schedule-Editor\WpfApp1\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Coding\Projects\Schedule-Editor\WpfApp1\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+D:\Coding\Projects\Schedule-Editor\WpfApp1\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Coding\Projects\Schedule-Editor\WpfApp1\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+D:\Coding\Projects\Schedule-Editor\WpfApp1\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+D:\Coding\Projects\Schedule-Editor\WpfApp1\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+D:\Coding\Projects\Schedule-Editor\WpfApp1\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Coding\Projects\Schedule-Editor\WpfApp1\bin\Debug\net8.0-windows\Microsoft.Identity.Client.NativeInterop.dll
+D:\Coding\Projects\Schedule-Editor\WpfApp1\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\Coding\Projects\Schedule-Editor\WpfApp1\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Coding\Projects\Schedule-Editor\WpfApp1\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\Coding\Projects\Schedule-Editor\WpfApp1\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\Coding\Projects\Schedule-Editor\WpfApp1\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Coding\Projects\Schedule-Editor\WpfApp1\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\Coding\Projects\Schedule-Editor\WpfApp1\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+D:\Coding\Projects\Schedule-Editor\WpfApp1\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Core.dll
+D:\Coding\Projects\Schedule-Editor\WpfApp1\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.WinForms.dll
+D:\Coding\Projects\Schedule-Editor\WpfApp1\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Wpf.dll
+D:\Coding\Projects\Schedule-Editor\WpfApp1\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\Coding\Projects\Schedule-Editor\WpfApp1\bin\Debug\net8.0-windows\System.Memory.Data.dll
+D:\Coding\Projects\Schedule-Editor\WpfApp1\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+D:\Coding\Projects\Schedule-Editor\WpfApp1\bin\Debug\net8.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Coding\Projects\Schedule-Editor\WpfApp1\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Coding\Projects\Schedule-Editor\WpfApp1\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Coding\Projects\Schedule-Editor\WpfApp1\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Coding\Projects\Schedule-Editor\WpfApp1\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Coding\Projects\Schedule-Editor\WpfApp1\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Coding\Projects\Schedule-Editor\WpfApp1\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msalruntime_arm64.dll
+D:\Coding\Projects\Schedule-Editor\WpfApp1\bin\Debug\net8.0-windows\runtimes\win-x64\native\msalruntime.dll
+D:\Coding\Projects\Schedule-Editor\WpfApp1\bin\Debug\net8.0-windows\runtimes\win-x86\native\msalruntime_x86.dll
+D:\Coding\Projects\Schedule-Editor\WpfApp1\bin\Debug\net8.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+D:\Coding\Projects\Schedule-Editor\WpfApp1\bin\Debug\net8.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+D:\Coding\Projects\Schedule-Editor\WpfApp1\bin\Debug\net8.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+D:\Coding\Projects\Schedule-Editor\WpfApp1\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Coding\Projects\Schedule-Editor\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.csproj.AssemblyReference.cache
+D:\Coding\Projects\Schedule-Editor\WpfApp1\obj\Debug\net8.0-windows\MainWindow.baml
+D:\Coding\Projects\Schedule-Editor\WpfApp1\obj\Debug\net8.0-windows\Resources\AllSchedules.baml
+D:\Coding\Projects\Schedule-Editor\WpfApp1\obj\Debug\net8.0-windows\Resources\Darcula.baml
+D:\Coding\Projects\Schedule-Editor\WpfApp1\obj\Debug\net8.0-windows\Views\AllSchedulesPage.baml
+D:\Coding\Projects\Schedule-Editor\WpfApp1\obj\Debug\net8.0-windows\Views\SchedulePage.baml
+D:\Coding\Projects\Schedule-Editor\WpfApp1\obj\Debug\net8.0-windows\MainWindow.g.cs
+D:\Coding\Projects\Schedule-Editor\WpfApp1\obj\Debug\net8.0-windows\Views\AllSchedulesPage.g.cs
+D:\Coding\Projects\Schedule-Editor\WpfApp1\obj\Debug\net8.0-windows\Views\SchedulePage.g.cs
+D:\Coding\Projects\Schedule-Editor\WpfApp1\obj\Debug\net8.0-windows\App.g.cs
+D:\Coding\Projects\Schedule-Editor\WpfApp1\obj\Debug\net8.0-windows\WpfApp1_MarkupCompile.cache
+D:\Coding\Projects\Schedule-Editor\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.g.resources
+D:\Coding\Projects\Schedule-Editor\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding\Projects\Schedule-Editor\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.AssemblyInfoInputs.cache
+D:\Coding\Projects\Schedule-Editor\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.AssemblyInfo.cs
+D:\Coding\Projects\Schedule-Editor\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.csproj.CoreCompileInputs.cache
+D:\Coding\Projects\Schedule-Editor\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.sourcelink.json
+D:\Coding\Projects\Schedule-Editor\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.csproj.Up2Date
+D:\Coding\Projects\Schedule-Editor\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.dll
+D:\Coding\Projects\Schedule-Editor\WpfApp1\obj\Debug\net8.0-windows\refint\WpfApp1.dll
+D:\Coding\Projects\Schedule-Editor\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.pdb
+D:\Coding\Projects\Schedule-Editor\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.genruntimeconfig.cache
+D:\Coding\Projects\Schedule-Editor\WpfApp1\obj\Debug\net8.0-windows\ref\WpfApp1.dll
+D:\Coding\Projects\Schedule-Editor\WpfApp1\bin\Debug\net8.0-windows\Dapper.dll
+D:\Coding\Projects\Schedule-Editor\WpfApp1\bin\Debug\net8.0-windows\Npgsql.dll
