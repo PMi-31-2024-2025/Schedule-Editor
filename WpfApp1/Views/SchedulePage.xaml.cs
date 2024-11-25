@@ -110,6 +110,10 @@ namespace WpfApp1.Views
                     GroupComboBox.DisplayMemberPath = "Display";
                     GroupComboBox.SelectedItem = null;
                     TeacherComboBox.ItemsSource = null;
+
+                    _currentSchedule.ReadDataFromDatabase(selectedFaculty.Id, selectedCourse.Id);
+                    _schedules.Insert(0, _currentSchedule);
+                    UpdateScheduleList();
                 }
                 
             }
