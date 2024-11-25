@@ -85,7 +85,7 @@
             </Grid>
 
             <StackPanel Orientation="Horizontal" HorizontalAlignment="Left" Margin="0,10,0,0">
-                <Button Content="Додати/Оновити запис" Style="{StaticResource SuccessButton}" Width="150" Margin="5" Click="SaveSchedule_Click"/>
+                <Button Content="Додати запис" Style="{StaticResource SuccessButton}" Width="150" Margin="5" Click="SaveSchedule_Click"/>
                 <Button Content="Видалити запис" Style="{StaticResource ErrorButton}" Width="150" Margin="5" Click="DeleteSchedule_Click"/>
             </StackPanel>
 
