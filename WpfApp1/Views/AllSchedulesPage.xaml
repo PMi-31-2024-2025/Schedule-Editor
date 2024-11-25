@@ -31,5 +31,7 @@
         <!-- Кнопка для перезавантаження -->
         <Button Grid.Row="2" Content="Перезавантажити" HorizontalAlignment="Right" Padding="15" Margin="15" Style="{StaticResource SuccessButton}"
                 Click="ReloadSchedules_Click" />
+        <Button Grid.Row="2" Content="Експортувати" HorizontalAlignment="Left" Padding="15" Margin="15" Style="{StaticResource SuccessButton}"
+                Click="ExportToPdf_Click" />
     </Grid>
 </Page>
