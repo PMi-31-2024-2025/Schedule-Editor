@@ -26,14 +26,16 @@ namespace UniversityScheduler.Models
         }
 
 
-        public void ReadDataFromDatabase(int facultyId, int year)
+        public void ReadDataFromDatabase(int facultyId, int year, bool clearEntries = true)
         {
             string connectionString = "Host=localhost;Username=postgres;Password=12505;Database=ScheduleEditor";
 
             using (var connection = new NpgsqlConnection(connectionString))
             {
                 //clear entries
-                Entries.Clear();
+                if (clearEntries) {
+                    Entries.Clear();
+                }
 
                 connection.Open();
 

@@ -37,7 +37,7 @@ namespace WpfApp1.Models
 
 
         // Відображуваний текст для списку записів
-        public string DisplayText => $"{DayOfWeek}: {Subject} - {LessonType}, {Teacher?.Name}, {Room?.RoomNumber}, {StartTime:HH:mm} - {EndTime:HH:mm}";
+        public string DisplayText => $"{DayOfWeek}: {Subject} - {LessonType}, {Teacher?.Name}, {Room?.RoomNumber}, {PairTime}, {Group?.GroupName}";
 
         public void SaveToDatabase() {
             string connectionString = "Host=localhost;Username=postgres;Password=12505;Database=ScheduleEditor";
@@ -103,8 +103,6 @@ namespace WpfApp1.Models
                         command.Parameters.AddWithValue("@LecturerId", Teacher.Id);
                         command.Parameters.AddWithValue("@LessonTime", PairTime);
                         command.Parameters.AddWithValue("@GroupId", Group.Id);
-
-                        MessageBox.Show($"Weekday: {DayOfWeek}, SubjectId: {SubjectObject.Id}, ClassType: {LessonType}, ClassroomId: {Room.Id}, LecturerId: {Teacher.Id}, LessonTime: {PairTime}, GroupId: {Group.Id}");
 
                         command.ExecuteNonQuery();
                     }

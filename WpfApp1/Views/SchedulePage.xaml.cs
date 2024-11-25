@@ -31,6 +31,7 @@ namespace WpfApp1.Views
         private List<Subject> _subjects;
         private List<LessonType> _lessonTypes;
         private Schedule _currentSchedule;
+        private Schedule _fullSchedule;
 
 
         public SchedulePage(List<Schedule> schedules, List<Teacher> teachers, List<StudentGroup> groups, List<Room> rooms, List<Faculty> faculties, List<Course> courses, List<Subject> subjects, List<LessonType> lessonTypes, Schedule schedule)
@@ -45,6 +46,7 @@ namespace WpfApp1.Views
             _subjects = subjects;
             _lessonTypes = lessonTypes;
             _currentSchedule = schedule ?? new Schedule();
+            _fullSchedule = new Schedule();
 
             FacultyComboBox.ItemsSource = _faculties;
             LessonTypeComboBox.ItemsSource = _lessonTypes;
@@ -96,6 +98,11 @@ namespace WpfApp1.Views
                 SubjectComboBox.ItemsSource = null;
                 GroupComboBox.ItemsSource = null;
                 TeacherComboBox.ItemsSource = null;
+
+                _fullSchedule.ReadDataFromDatabase(selectedFaculty.Id, 1, false);
+                _fullSchedule.ReadDataFromDatabase(selectedFaculty.Id, 2, false);
+                _fullSchedule.ReadDataFromDatabase(selectedFaculty.Id, 3, false);
+                _fullSchedule.ReadDataFromDatabase(selectedFaculty.Id, 4, false);
             }
         }
 
@@ -166,6 +173,7 @@ namespace WpfApp1.Views
                 // Перевірка на конфлікт аудиторії
                 bool isRoomConflict = _schedules
                     .SelectMany(s => s.Entries)
+                    .Concat(_fullSchedule.Entries)
                     .Any(entry =>
                         entry.DayOfWeek == selectedDay &&
                         entry.PairTime == selectedPair &&
@@ -180,6 +188,7 @@ namespace WpfApp1.Views
                 // Перевірка на конфлікт викладача
                 bool isTeacherConflict = _schedules
                     .SelectMany(s => s.Entries)
+                    .Concat(_fullSchedule.Entries)
                     .Any(entry =>
                         entry.DayOfWeek == selectedDay &&
                         entry.PairTime == selectedPair &&

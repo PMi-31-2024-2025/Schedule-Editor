@@ -330,7 +330,7 @@ namespace WpfApp1.Views
                         var cellText = new TextBlock
                         {
                             Text = entry != null
-                                ? $"{entry.Subject}\n{entry.Teacher.Name}\n{entry.Room.RoomNumber}"
+                                ? $"{entry.Subject} ({entry.LessonType})\n{entry.Teacher.Name}\n{entry.Room.RoomNumber}"
                                 : string.Empty,
                             TextAlignment = TextAlignment.Center,
                             Margin = new Thickness(5)
