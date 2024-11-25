@@ -43,6 +43,7 @@ namespace UniversityScheduler.Models
                 string query = @"
                     SELECT s.id as Id,
                         sg.name as GroupName,
+                        sg.id as GroupId,
                         f.id as FacultyId,
                         sg.year as Year,
                         sg.student_count as StudentCount,
@@ -81,6 +82,7 @@ namespace UniversityScheduler.Models
                                 Id = reader.GetInt32(reader.GetOrdinal("Id")),
                                 Group = new StudentGroup
                                 {
+                                    Id = reader.GetInt32(reader.GetOrdinal("GroupId")),
                                     GroupName = reader.GetString(reader.GetOrdinal("GroupName")),
                                     FacultyId = reader.GetInt32(reader.GetOrdinal("FacultyId")),
                                     CourseId = reader.GetInt32(reader.GetOrdinal("Year")),

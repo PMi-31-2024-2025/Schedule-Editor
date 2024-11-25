@@ -74,5 +74,47 @@ namespace WpfApp1.Models
                 }
         }
 
+        public void DeleteFromDatabase() {
+            string connectionString = "Host=localhost;Username=postgres;Password=12505;Database=ScheduleEditor";
+
+            using (var connection = new NpgsqlConnection(connectionString))
+            {
+                try{
+                    connection.Open();
+                    string query = @"
+                        DELETE FROM schedule
+                        WHERE
+                            student_group_id = @GroupId AND
+                            lesson_time = @LessonTime AND
+                            lecturer_id = @LecturerId AND
+                            classroom_id = @ClassroomId AND
+                            class_type = @ClassType AND
+                            subject_id = @SubjectId
+                            AND weekday = @Weekday
+                        ";
+
+                    using (var command = new NpgsqlCommand(query, connection))
+                    {
+                        command.Parameters.Clear();
+                        command.Parameters.AddWithValue("@Weekday", DayOfWeek);
+                        command.Parameters.AddWithValue("@SubjectId", SubjectObject.Id);
+                        command.Parameters.AddWithValue("@ClassType", LessonType);
+                        command.Parameters.AddWithValue("@ClassroomId", Room.Id);
+                        command.Parameters.AddWithValue("@LecturerId", Teacher.Id);
+                        command.Parameters.AddWithValue("@LessonTime", PairTime);
+                        command.Parameters.AddWithValue("@GroupId", Group.Id);
+
+                        MessageBox.Show($"Weekday: {DayOfWeek}, SubjectId: {SubjectObject.Id}, ClassType: {LessonType}, ClassroomId: {Room.Id}, LecturerId: {Teacher.Id}, LessonTime: {PairTime}, GroupId: {Group.Id}");
+
+                        command.ExecuteNonQuery();
+                    }
+                }
+                catch (Exception ex)
+                {
+                    MessageBox.Show(ex.Message);
+                }
+            }
+        }
+
     }
 }

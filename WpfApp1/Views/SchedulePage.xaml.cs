@@ -301,6 +301,7 @@ namespace WpfApp1.Views
         {
             if (ScheduleListBox.SelectedItem is ScheduleEntry selectedEntry)
             {
+                selectedEntry.DeleteFromDatabase();
                 _currentSchedule.Entries.Remove(selectedEntry);
                 UpdateScheduleList();
             }
